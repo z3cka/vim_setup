@@ -1,1 +1,4 @@
-This is my Vim setup. Feel free to take a look and use what ever you'd like.
+This is my Vim setup. Feel free to take a look and use what ever you'd like. Just put the contents of this repo in your ~/.vim directory.
+
+NOTE:
+I have also provided my .vimrc file. Be sure to move this to your ~/ (home) directory.
