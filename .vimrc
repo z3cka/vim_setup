@@ -1,1 +1,1 @@
-.vimrc
+/var/aegir/.vimrc
