@@ -1,0 +1,8 @@
+1) Extract the files into the appropriate directories in 
+   your vim home directory (usually ~/.vim/)
+
+2) Open vim and generate the helptags
+       :helptags ~/.vim/doc
+
+3) Please READ the help docs to learn how to set up the plugin.
+       :help drupal6complete-intro
