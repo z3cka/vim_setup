@@ -1,3 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =3
 let g:netrw_dirhist_1='/var/aegir/.vim/snippets'
+let g:netrw_dirhist_2='/var/aegir/platforms/summit/drupal-7.0/sites'
+let g:netrw_dirhist_3='/var/aegir/platforms/summit/drupal-7.0/sites/all/themes/zen_summit'
